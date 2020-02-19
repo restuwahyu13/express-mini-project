@@ -8,7 +8,7 @@ Berikut adalah simple **Mini project** Sistem Akademik Sekolah studi kasus from 
 
 #### Features:
 
-- [x] **Login and Register**
+- [x] **Advanced Login and Register**
 - [x] **Forgot and Reset Password**
 - [x] **Activation Token Login with Sendgrind Email**
 - [x] **Resend Token Activation**
